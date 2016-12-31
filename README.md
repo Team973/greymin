@@ -15,18 +15,15 @@ a test case for implicit ranking based on data collected from Madtown Throwdown 
 
 To use or update the following packages:
 
-'''
-go get -u github.com/Team973/greymin/...
 
-'''
+	$ go get -u github.com/Team973/greymin/...
+
 
 To run the demo based on data from Madtown Throwdown 2016:
 
-'''
-git clone https://github.com/Team973/greymin.git
-go run demo.go
 
-'''
+	$ git clone https://github.com/Team973/greymin.git
+	$ go run demo.go
 
 
-Developed by Ron Bhattacharyay under MIT License.
+Developed by Ron Bhattacharyay under the MIT License.
